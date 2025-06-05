@@ -1,6 +1,6 @@
 Effective Date: Jun 5th, 2025
 
-Thank you for using [Your GPT Name]. This Privacy Policy outlines how we collect, use, and protect your personal information.
+Thank you for using [ECIA]. This Privacy Policy outlines how we collect, use, and protect your personal information.
 
 1. Information We Collect
 We do not collect personally identifiable information (PII) unless explicitly provided by the user. The system may process text inputs during interaction to deliver responses, but these are not stored or shared.
